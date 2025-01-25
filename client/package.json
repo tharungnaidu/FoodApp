@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "https://spoon-fed-server.vercel.app/",
   "engines": {
-    "node": "18.x"
+    "node": "18.2.0"
   },
   "dependencies": {
     "@auth0/auth0-react": "^2.0.1",
