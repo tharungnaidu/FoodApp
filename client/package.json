@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://spoon-fed-server.vercel.app/",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@auth0/auth0-react": "^2.0.1",
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
